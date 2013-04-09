@@ -3,6 +3,9 @@
 /lib
 /classes
 /checkouts
+/bin
+.classpath
+.project
 pom.xml
 pom.xml.asc
 .DS_Store
